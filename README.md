@@ -1,6 +1,6 @@
 ```python
 impact = []
-impact.append("Delivering end-to-end solutions — from requirement analysis to working code")
+impact.append("Delivering structured system solutions — from requirement analysis, process modeling, to implementation support")
 ```
 * 💼 System Analyst (Certified) with a Bachelor’s degree in Information Systems, experienced in Agile project environments and PMO-related work  
 
