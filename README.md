@@ -12,6 +12,6 @@ impact.append("Delivering structured system solutions — from requirement analy
 
 * 🛠️ Working with system analysis (UML, BPMN, BRD/FRD), Management (Agile (Scrum/Kanban), Jira, PMO Support), web development (Laravel, JavaScript, Python), and data analysis  
 
-* 🌐 [Portfolio Website](https://Sufiana-A.github.io/My-Professional-Profile-Web) (under development), [WordPress Blog](https://secarikpesan7.wordpress.com/), and [Medium Blog](https://medium.com/@sufi.arum24)
+* 🌐 [Portfolio Website](https://Sufiana-A.github.io/My-Professional-Profile-Web), [WordPress Blog](https://secarikpesan7.wordpress.com/), and [Medium Blog](https://medium.com/@sufi.arum24)
 
 * 🧪 Interests: Figuring out the "magic" behind complex systems, automating the boring stuff, and learning tools that make life (and code) easier  
