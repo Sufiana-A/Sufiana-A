@@ -10,7 +10,7 @@ impact.append("Delivering structured system solutions — from requirement analy
   - IoT-based system @RoomKind  
   - Document generator platform @DrafTyp 
 
-* 🛠️ Working with system analysis (UML, BPMN, BRD/FRD), Management (Agile (Scrum/Kanban), Jira, PMO Support), web development (Laravel, JavaScript, Python), and data analysis  
+* 🛠️ Working with system analysis (UML, BPMN, BRD/FRD, PRD), Management (Agile (Scrum/Kanban), Jira, PMO Support), web development (Laravel, JavaScript, Python), and data analysis  
 
 * 🌐 [Portfolio Website](https://Sufiana-A.github.io/My-Professional-Profile-Web), [WordPress Blog](https://secarikpesan7.wordpress.com/), and [Medium Blog](https://medium.com/@sufi.arum24)
 
